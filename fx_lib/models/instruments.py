@@ -1,7 +1,7 @@
 from enum import Enum
 
 
-class FxPair(Enum):
+class Instrument(Enum):
     AUDJPY = "AUD/JPY"
     AUDNZD = "AUD/NZD"
     AUDUSD = "AUD/USD"
